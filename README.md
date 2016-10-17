@@ -1,4 +1,4 @@
-# Ionic Super Popup
+# Eland Super Popup(Based Ionic Super Popup)
 
 A stylized alternative to using $ionicPopup with three themes: Twitter, Facebook, Google and The default Ionic Super Theme.
 
