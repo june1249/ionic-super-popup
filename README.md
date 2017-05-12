@@ -78,7 +78,23 @@ Error:
 		
 		ionicSuperPopup.show("Error!", "That was a bad thing you just did!", "error");
 
+#### Configuration
+Default configuration
 
+
+	allowOutsideClick: false
+    showConfirmButton: false
+    showCancelButton: false
+    closeOnConfirm: true
+    closeOnCancel: true
+    confirmButtonText: "OK:
+    confirmButtonColor: "#8CD4F5"
+    cancelButtonText: "Cancel"
+    html: false
+    animation: true
+    allowEscapeKey: true
+    showLoaderOnConfirm: false
+    
 
 
 #### Ionic Super Popup Confirmarions
